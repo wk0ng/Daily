@@ -1,0 +1,11 @@
+E:\Project\7.日报导出\Daily\bin\Debug\Daily.exe.config
+E:\Project\7.日报导出\Daily\bin\Debug\Daily.exe
+E:\Project\7.日报导出\Daily\bin\Debug\Daily.pdb
+E:\Project\7.日报导出\Daily\obj\Debug\Daily.csproj.AssemblyReference.cache
+E:\Project\7.日报导出\Daily\obj\Debug\Daily.Form1.resources
+E:\Project\7.日报导出\Daily\obj\Debug\Daily.Properties.Resources.resources
+E:\Project\7.日报导出\Daily\obj\Debug\Daily.csproj.GenerateResource.cache
+E:\Project\7.日报导出\Daily\obj\Debug\Daily.csproj.CoreCompileInputs.cache
+E:\Project\7.日报导出\Daily\obj\Debug\Daily.exe
+E:\Project\7.日报导出\Daily\obj\Debug\Daily.pdb
+E:\Project\7.日报导出\Daily\obj\Debug\Daily.csproj.ResolveComReference.cache
